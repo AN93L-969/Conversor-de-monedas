@@ -22,14 +22,14 @@ de dinero que desea convertir a Pesos Colombianos (Según el ejemplo en las cap-
 turas, dado que en la captura se muestra que el usuario selecciono la opción 
 número 5).</p>
 
-![Menú principal del sistema](assets/Captura 2.png)
+![Menú principal del sistema](assets/Captura%202.png)
 
 <p>Imagen 3: En la siguiente y ultima captura, se muestra la respuesta del
 programa después de ingresar la cantidad de dinero a convertir, la respuesta
 se personaliza dependiendo de la opción que el usuario elija al principio y
 de la cantidad de dinero que ingrese.</p>
 
-![Menú principal del sistema](assets/Captura 3.png)
+![Menú principal del sistema](assets/Captura%203.png)
 
 <h2>Te agradecemos mucho por el apoyo!</h2>
 <p>Esperamos seguir mejorando y estamos abiertos a comentarios y sugerencias
