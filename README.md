@@ -14,7 +14,7 @@ las opciones de conversión que entrega el sistema y siendo la última enumerada
 con 0 para salir y cerrar el sistema. Luego se muestra un campo en donde el 
 usuario debe de ingresar la opción que él desea.</p>
 
-![Menú principal del sistema](assets/Captura 1.png)
+![Menú principal del sistema](assets/Captura%201.png)
 
 <p>Imagen 2: En esta segunda captura, el programa después de que él usuario
 ingresara la opción deseada, muestra un texto en donde pide ingresar la cantidad
